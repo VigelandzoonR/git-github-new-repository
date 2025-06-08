@@ -6,3 +6,6 @@ Today's date: 8 june 2025
 Contact Information:
 Email: your-email@example.com
 Favorite hobby: [add your hobby]
+
+Goals:
+Learn more about Github and Cloud computing. 
