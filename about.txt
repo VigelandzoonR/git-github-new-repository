@@ -1,3 +1,8 @@
 My First Git Project
 This is where I'm learning about version control.
 Today's date: 8 june 2025 
+
+
+Contact Information:
+Email: your-email@example.com
+Favorite hobby: [add your hobby]
